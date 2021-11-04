@@ -1,0 +1,117 @@
+body{
+    background-color: rgb(242, 242, 242);
+}
+.square{
+    width: 320px;
+    height: 100px;
+    background-color: none;
+ }
+ .square2{
+    width: 380px;
+    height: 100px;
+    background-color: none;
+    position: relative;
+    left: 910px;
+    bottom: 100px;
+ }
+ .square3{
+    width: 420px;
+    height: 150px;
+    background-color: none;
+    position: relative;
+    left: 738px;
+    bottom: 610px;
+
+ }
+ .bola{
+    width: 140px;
+    height: 140px;
+    border-radius:400px;
+    background-color: rgb(255, 204, 0);
+    position: relative;
+    left: 670px;
+    bottom:690px;
+    
+
+ }
+ .bola2{
+    width: 140px;
+    height: 140px;
+    border-radius:400px;
+    background-color: rgb(255, 71, 26);
+    position: relative;
+    left: 840px;
+    bottom:829px;
+ }
+ .bola3{
+    width: 140px;
+    height: 140px;
+    border-radius:400px;
+    background-color: rgb(51, 214, 255);
+    position: relative;
+    left: 1015px;
+    bottom:970px;
+ }
+ .name{
+     font-size: 23px;
+     font-family: 'Open Sans', sans-serif;
+     position: relative;
+     left: 60px;
+ }
+ .circulo{
+     height: 26px;
+     position: relative;
+     top: 51px;
+     left: 20px;
+ }
+ .editor{
+     font-size: 18px;
+     font-family: 'Open Sans', sans-serif;
+     position: relative;
+     left: 230px;
+     bottom: 45px;
+ }
+ #resume{
+    font-family: 'Open Sans', sans-serif;
+    font-size: 15px;
+    position: relative;
+    top: 40px;
+    left: 110px;
+ }
+ #projects{
+    font-family: 'Open Sans', sans-serif;
+    font-size: 15px;
+    position: relative;
+    top: 6px;
+    left: 180px;
+ }
+ #contact{
+    font-family: 'Open Sans', sans-serif;
+    font-size: 15px;
+    position: relative;
+    bottom: 29px;
+    left: 250px; 
+ }
+ #maik{
+     position: relative;
+     left: 180px;
+     height: 480px;
+ }
+ #hello{
+     position: relative;
+     left: 730px;
+     bottom: 520px;
+     font-size: 120px;
+     font-family: 'Source Sans Pro', sans-serif;
+ }
+ #bit{
+    font-family: 'Open Sans', sans-serif;
+    position: relative;
+    left: 740px;
+    bottom: 600px;
+    font-size: 26px;
+ }
+ #text{
+     font-size: 15px;
+     font-family: 'Open Sans', sans-serif;
+ }
